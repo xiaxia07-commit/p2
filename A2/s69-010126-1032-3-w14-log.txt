@@ -1,0 +1,4 @@
+49633ad (HEAD -> main) Submit w14-update.pdf and log file
+bffaecb (origin/main) A2.pyde
+881a6a7 linitial commit
+
