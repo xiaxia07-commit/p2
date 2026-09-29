@@ -1,4 +1,19 @@
-49633ad (HEAD -> main) Submit w14-update.pdf and log file
-bffaecb (origin/main) A2.pyde
+69cf01d (HEAD) อัปเดตไฟล์งาน
+ca7b545 Add files via upload
+aee9f2f Delete A2/Panuphun.pdf
+b984ed5 Add files via upload
+03f6f9f Rename w14-update to w14-update.pdf
+8523fca Rename w13-update to w13-update.pdf
+40543e0 Rename Panuphun.pdf to w13-update
+6c06a7a Add files via upload
+5c55c69 Delete Rename w14-update to .w13-update
+cfdffd8 Rename w13-update.pdf to Rename w14-update to .w13-update
+d08e14d w13-update.pdf
+e468520 Rename Panuphun a2w14.pdf to w14-update
+6a043be Delete A2/A2
+bc1f148 A2
+2474150 Add files via upload
+9e61c38 Delete A2/sketch.properties
+97dd5fa Add files via upload
+bffaecb A2.pyde
 881a6a7 linitial commit
-
